@@ -1,0 +1,33 @@
+//Variable
+una variable es la forma como dedicamos un espacio para almacenar algo, que usaremos luego, por ejemplo
+var nombre = "Danny"
+donde nombre es la variable y en este espacio almacenamos la palabra Danny
+nombre
+'Danny'
+//
+
+
+//Strings
+Un strging es un tipo de dato, un tipo de dato es la forma de indicar que tipo de dato se va a utilizar, en el caso de strings es una cadena de texto
+por ejemplo
+´Danny´
+los strings siempre van entre comillas simples o dobles, cualquier cosa entre comillas el lenguaje lo interpreta como string
+
+//Funciones
+una funcion es un objeto que se puede llamar o invocar su sintaxis es la siguiente
+function miNombre() {}
+Palabra clave Function
+nombre de la funcion
+parentesis abierto y cerrado
+corchetes abierto y cerrado
+aqui es donde ira el codigo que se va a ejecutar (los argumentos)
+
+return devuelve un resultado(valor) fuera de la funcion, lo que detiene la funcion para mostrar el resultado
+
+el if es un control de flujo que me permite "controlar" los valores boleanos true y false verificando si se cumple una condicion
+
+ejemplo
+
+vamos de vacaciones
+if ordenan la habitacion
+else no vamos de vacaciones
