@@ -1,0 +1,5 @@
+
+FOR es un bucle que evalua las expresiones la cantidad de veces que sea necesario hasta llegar al valor que estamos buscando o se detiene despues de cierto tiempo
+&& es una concatenacion 'y' se utiliza para amarrar una cosa con otra normalmente en un condicional
+|| or es una concatenacion se utiliza para evaluar una condicion si algo es esto OR esto entonces
+! NO  
